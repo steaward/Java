@@ -1,0 +1,24 @@
+Launchy 2.5
+PLEASE READ THIS!
+When Launchy runs it disappears to the background.  You have to press
+‘alt+space’ (control+space in Linux) in order to see Launchy.  If Launchy is new
+for you please read the rest of this short manual.
+Welcome
+Launchy was first created for my own use, but as my friends and I began to
+heavily rely upon it and its lack of cost, I decided to distribute it.  The official
+homepage for Launchy is 
+http://www.launchy.net
+.If you need help using
+Launchy or would like to leave any comments/suggestions please feel free to
+post on the forums.
+-- Josh Karlin
+What is Launchy?
+Launchy is the most efficient way to open files, folders, websites, and
+programs on your computer.  Nobody likes to hunt through the start menu to
+find an application, just to find that the application is hidden under some
+obscure folder named after a company you have never heard of!  Instead,
+Launchy is a smart search program which tries to guess which program or file
+you are looking for and will launch it when you hit the enter key.  It is only
+visible when you hit the alt+space key combination; otherwise it hides in the
+background.  Once you have used it for a few days, it becomes an indispensable
+utility for your computer.  And it’s free!
